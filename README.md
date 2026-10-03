@@ -9,7 +9,7 @@ Busco constantemente aplicar os conceitos teóricos aprendidos na faculdade em p
 
 ---
 
- 🛠️ Tecnologias e Ferramentas
+  Tecnologias e Ferramentas
 
 - **Front-End:** HTML5 | CSS3
 - **Back-End:** Python
